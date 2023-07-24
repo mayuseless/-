@@ -12,3 +12,18 @@ WPS加载项配置 (myqcloud.com)
    Jupyter Notebook
    Pyecharts
 （源码已注释不产生除结果网页）
+
+机翻：
+PPT description: WPS used
+Insert Web Page Rotation Chart Plugin: Demo Catalyst
+WPS Add-in Configuration (myqcloud.com)
+The loading image page comes from the jupyter code file
+
+Data source:
+Northeast Agricultural University Database
+Price | FAO | Food and Agriculture Organization of the United Nations
+
+Code description: Python
+   Jupyter Notebook
+   Pyecharts
+(Source code has been commented not produced except for the result page)
